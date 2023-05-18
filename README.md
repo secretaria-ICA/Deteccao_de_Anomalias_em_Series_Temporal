@@ -1,5 +1,5 @@
-# Projeto Final ('PROJ') - BI MASTER 2020.2
-## Detecção de Anomalias em Série Temporal
+
+# Deteccao_de_Anomalias_em_Series_Temporal
 Repositório: bimaster-proj  
 Autor: Alex Marques Campos  
 Matrícula: 202190054
