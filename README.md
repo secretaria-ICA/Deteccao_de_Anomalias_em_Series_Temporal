@@ -1,6 +1,5 @@
 
-# Deteccao_de_Anomalias_em_Series_Temporal
-Repositório: bimaster-proj  
+# Deteccao_de_Anomalias_em_Series_Temporal 
 Autor: Alex Marques Campos  
 Matrícula: 202190054
 
